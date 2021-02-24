@@ -24,7 +24,7 @@
     "changelog": "lerna-changelog"
   },
   "dependencies": {
-    "babel-plugin-ember-modules-api-polyfill": "^2.3.2",
+    "babel-plugin-ember-modules-api-polyfill": "^2.13.4",
     "ember-cli-babel": "^6.16.0"
   },
   "devDependencies": {
